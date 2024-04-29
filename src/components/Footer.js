@@ -39,12 +39,12 @@ export default function Footer() {
       <p className="text-center px-5 mt-8 text-xs ">
         Invoicer is built by{" "}
         <a
-          href="https://tsbsankara.com"
+          href="https://thisis-salah.netlify.app"
           target="_blank"
           rel="noreferrer"
           className="underline"
         >
-          Thomas Sankara
+          Salah
         </a>
       </p>
     </>

@@ -252,7 +252,7 @@ function App() {
             </div>
           </div>
           <article className="mt-5">
-            <DonateButton />
+            {/* <DonateButton /> */}
           </article>
         </section>
 
