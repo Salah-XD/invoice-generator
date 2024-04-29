@@ -36,7 +36,7 @@ export default function Footer() {
         </ul>
       </footer>
 
-      <p className="text-center px-5 mt-8 text-xs ">
+      {/* <p className="text-center px-5 mt-8 text-xs ">
         Invoicer is built by{" "}
         <a
           href="https://thisis-salah.netlify.app"
@@ -46,7 +46,7 @@ export default function Footer() {
         >
           Salah
         </a>
-      </p>
+      </p> */}
     </>
   );
 }
